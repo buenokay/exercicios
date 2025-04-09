@@ -1,1 +1,1 @@
-# exercicios
+# ex3 de exercicio 30
